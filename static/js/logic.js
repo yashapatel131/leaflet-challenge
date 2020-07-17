@@ -99,7 +99,7 @@ function createPlates(PlateData){
     };
 
 
-    var API_KEY = "YOUR KEY HERE"; 
+    var API_KEY = "pk.eyJ1IjoieXAxMzEiLCJhIjoiY2tieHBxdjA4MHNhNTJzbnNidG1ucWQ5cCJ9.ErBE6DhV6CleLdsd9E03Rw"; 
 
 function createMap(earthquakes){
     console.log('creating map...');
